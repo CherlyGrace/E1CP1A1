@@ -524,7 +524,7 @@ Probar con el navegador achicando la pantalla, ¿Cuál es la diferencia?
 </head>
 <body>
 
-	<img src="images/logo.png" alt="logo desafio latam" >
+	<img src="images/logo.png" alt="logo desafio latam" style="height:" >
 	<img src="images/logo.png" alt="logo desafio latam" >
 
 </body>
